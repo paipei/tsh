@@ -96,8 +96,8 @@ public class JMC
 						
 						exportThreadToFile(configProperties);
 						
-						long nextExcutionTime = (new Date()).getTime()+timeIntervalL;
-						System.out.println("Next execution time: "+new Date(nextExcutionTime));
+						long nextExecutionTime = (new Date()).getTime()+timeIntervalL;
+						System.out.println("Next execution time: "+new Date(nextExecutionTime));
 						
 						Thread.sleep(timeIntervalL);
 						
