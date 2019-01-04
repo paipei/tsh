@@ -44,7 +44,7 @@ public class JMC
 	private static final String basePath =  "";
 	private static final String result_file =  "result.txt";
 	
-  public JMC() {}
+  public JMC() {} 
   
   /* clear cache
   public static void main(String[] args) throws Exception
