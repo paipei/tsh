@@ -2,7 +2,7 @@ package jmc.beans;
 
 import java.util.List;
 
-public class ThreadInfoData { // abc def
+public class ThreadInfoData { // abc def ghi
 	
 	private long threadId;
 	private String threadName;
